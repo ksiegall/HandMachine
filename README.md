@@ -1,7 +1,7 @@
 # Hand Machine
 ## A Hand/Gesture Controlled Claw Machine
 ### Made by Zephyr Conley, Kay Siegall, and Cam Wian for GoatHacks 2025
-##Inspiration
+## Inspiration
 This project was inspired by Michael Reeves's "Surgery Robot", which uses a VR camera to track a "surgeon's" hand in 3d space, and controls a gantry with a knife on it.
 
 This, combined with Cam having access to a collection of 3D printer parts from a disassembled Taz, gave us a starting direction from which we found our vision for the Hand Machine.
